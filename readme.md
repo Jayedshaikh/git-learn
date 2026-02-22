@@ -2,5 +2,5 @@
 
 follow me on instagram
 
-'''javascript
+```javascript
 console.log("hello")
